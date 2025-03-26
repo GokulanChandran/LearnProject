@@ -25,6 +25,7 @@ public class SampleClass
 	@PostConstruct
 	public void check() throws Exception
 	{
+		System.out.println("addFeatures");
 		final String fromEmail = "gokulanlearn@gmail.com"; //requires valid gmail id
 		final String password = "mypassword"; // correct password for gmail id
 		final String toEmail = "gokulanlearn@gmail.com"; // can be any email id 
