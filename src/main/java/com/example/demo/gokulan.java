@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 public class gokulan 
 {
 	@Autowired
-	public SampleClass sample;
+	public SampleClass sample; //gfgmfk
 	
 
 
